@@ -1,0 +1,54 @@
+
+body {
+    margin: 0;
+  } 
+  .a:visited {
+    text-decoration: none;
+}
+  
+.p {
+    margin-top: 25px;
+}
+
+.EBC {
+  font-size: 1.25rem;
+  text-decoration: underline;
+}
+
+.nav {
+    background-color: #639576;
+    color: wheat;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 2 rem;
+    padding: 0 1rems;
+} 
+.nav ul {
+    padding: 0.1rem;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 1 rem;
+} 
+.nav a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 5.5mm;
+    height: 100%;
+    display: stretch;
+    align-items: center;
+    padding: 0.5rem;
+
+}
+
+.nav ul:hover {
+background-color:#8abd93;
+text-decoration: underline;
+color: white;
+}
+body{
+    margin: 0;
+
+}
